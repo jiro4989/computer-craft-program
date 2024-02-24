@@ -23,14 +23,14 @@ y の高さについてはテキストで表現するのが難しいので省略
 S はスタート地点を表している。
 
 ```
-z
+↑z
 
   oooooooooo
   oooooooooo
   oooooooooo
   oooooooooo
   S
-              x
+              x →
 ```
 
 採掘したことで砂や砂利が降ってくる場合に対応するために、
