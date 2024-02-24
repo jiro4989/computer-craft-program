@@ -1,0 +1,7 @@
+= computer-craft-program
+:toc: left
+:sectnums:
+
+Minecraft の ComputerCraft で書いた Lua プログラム置き場です。
+src ディレクトリ配下に配置しています。
+いずれのプログラムもファイル単体で動作します。
